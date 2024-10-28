@@ -18,3 +18,5 @@
    ./vendor/bin/sail artisan db:seed
    ./vendor/bin/sail npm install
    ./vendor/bin/sail num run build
+   
+4: Register to see latest quotes :) 
